@@ -1,0 +1,10 @@
+# Digiscope Python - Requirements
+# Install with: pip install -r requirements.txt
+
+numpy>=1.24.0
+scipy>=1.11.0
+matplotlib>=3.7.0
+wfdb>=4.1.0          # MIT-BIH / PhysioNet data access
+PyQt5>=5.15.0        # GUI framework
+pyqtgraph>=0.13.0    # Fast ECG plotting widget
+pyserial>=3.5          # Pico USB CDC driver
